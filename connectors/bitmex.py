@@ -8,6 +8,8 @@ from urllib.parse import urlencode
 import hmac
 import hashlib
 
+import dateutil.parser
+from strategies import TechnicalStrategy, BreakoutStrategy
 import websocket
 import json
 
@@ -38,7 +40,7 @@ class BitmexClient:
         self.balances = self.get_balances()
 
         self.prices = dict()
-
+        self.strategies: typing.Dict[int, typing.Union[TechnicalStrategy, BreakoutStrategy]] = dict()
         self.logs = []
 
         t = threading.Thread(target=self._start_ws)
@@ -198,6 +200,7 @@ class BitmexClient:
         logger.info("Bitmex connection opened")
 
         self.subscribe_channel("instrument")
+        self.subscribe_channel("trade")
 
     def _on_close(self, ws):
         logger.warning("Bitmex Websocket connection closed")
@@ -223,6 +226,16 @@ class BitmexClient:
                         self.prices[symbol]['bid'] = d['bidPrice']
                     if 'askPrice' in d:
                         self.prices[symbol]['ask'] = d['askPrice']
+
+            if data['table'] == "trade":
+
+                for d in data['data']:
+                    symbol = d['symbol']
+                    ts = int(dateutil.parser.isoparse(d['timestamp']).timestamp() * 1000)
+
+                    for key, strat in self.strategies.items():
+                        if strat.contract.symbol == symbol:
+                            strat.parse_trade(float(d['price']), float(d['size']), ts)
 
     def subscribe_channel(self, topic: str):
         data = dict()

@@ -1,4 +1,5 @@
 import logging
+import time
 from typing import *
 from models import *
 
@@ -19,10 +20,18 @@ class Strategy:
         self.balance_pct = balance_pct
         self.take_profit = take_profit
         self.stop_loss = stop_loss
+        self.open_position = False
+
 
         self.candles: List[Candle] = []
 
     def parse_trade(self, price: float, size: float, timestamp: int) -> str:
+
+        timestamp_diff = int(time.time() * 1000) - timestamp
+
+        if timestamp_diff >= 2000:
+            logger.warning("%s %s: %s milliseconds of difference between the current time and the trade time",
+                           self.exchange, self.contract.symbol, timestamp_diff)
 
         last_candle =self.candles[-1]
 
@@ -141,6 +150,13 @@ class TechnicalStrategy(Strategy):
         else:
             return 0
 
+    def check_trade(self, tick_type: str):
+
+        if tick_type == "new_candle" and not self.open_position:
+            signal_result = self._check_signal()
+
+            if signal_result in [-1, 1]:
+                self._open_position(signal_result)
 
 
 class BreakoutStrategy(Strategy):
@@ -159,6 +175,13 @@ class BreakoutStrategy(Strategy):
         else:
             return 0
 
+    def check_trade(self, tick_type: str):
+
+        if not self.open_position:
+            signal_result = self._check_signal()
+
+            if signal_result in [-1, 1]:
+                self._open_position(signal_result)
 
 
 

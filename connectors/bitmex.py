@@ -235,7 +235,8 @@ class BitmexClient:
 
                     for key, strat in self.strategies.items():
                         if strat.contract.symbol == symbol:
-                            strat.parse_trade(float(d['price']), float(d['size']), ts)
+                            res = strat.parse_trade(float(d['price']), float(d['size']), ts)
+                            strat.check_trade(res)
 
     def subscribe_channel(self, topic: str):
         data = dict()

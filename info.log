@@ -89,3 +89,91 @@
 2021-09-08 16:50:45,416 INFO :: Binance connection opened
 2021-09-08 16:50:47,170 INFO :: Bitmex Client successfully initialized
 2021-09-08 16:50:48,033 INFO :: Bitmex connection opened
+2021-09-09 11:36:49,289 INFO :: Binance Futures Client successfully initialized
+2021-09-09 11:36:50,084 INFO :: Binance connection opened
+2021-09-09 11:36:51,945 INFO :: Bitmex Client successfully initialized
+2021-09-09 11:36:53,234 INFO :: Bitmex connection opened
+2021-09-09 11:37:18,219 INFO :: Binance Futures current USDT balance = 99986.88238231, trade size = 0.109
+2021-09-09 11:37:18,219 INFO :: short signal on BTCUSDT 1m
+2021-09-09 11:37:18,629 INFO :: Sell order placed on Binance | Status = new
+2021-09-09 11:37:20,779 INFO :: Binance order status: filled
+2021-09-09 11:38:00,132 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-09 11:39:17,101 INFO :: Binance Futures Client successfully initialized
+2021-09-09 11:39:17,863 INFO :: Binance connection opened
+2021-09-09 11:39:19,748 INFO :: Bitmex Client successfully initialized
+2021-09-09 11:39:20,629 INFO :: Bitmex connection opened
+2021-09-13 11:04:47,123 INFO :: Binance Futures Client successfully initialized
+2021-09-13 11:04:47,875 INFO :: Binance connection opened
+2021-09-13 11:04:49,576 INFO :: Bitmex Client successfully initialized
+2021-09-13 11:04:50,800 INFO :: Bitmex connection opened
+2021-09-13 11:09:12,237 INFO :: Binance Futures Client successfully initialized
+2021-09-13 11:09:12,955 INFO :: Binance connection opened
+2021-09-13 11:09:15,849 INFO :: Bitmex Client successfully initialized
+2021-09-13 11:09:17,284 INFO :: Bitmex connection opened
+2021-09-13 11:09:43,248 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2021-09-13 11:09:43,251 WARNING :: Binance BTCUSDT: 4819 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:44,020 INFO :: Binance Futures current USDT balance = 99935.73581238, trade size = 0.045
+2021-09-13 11:09:44,020 INFO :: short signal on BTCUSDT 1m
+2021-09-13 11:09:44,211 INFO :: Sell order placed on Binance | Status = new
+2021-09-13 11:09:44,213 WARNING :: Binance BTCUSDT: 5781 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:44,213 WARNING :: Binance BTCUSDT: 5765 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:44,219 WARNING :: Binance BTCUSDT: 5771 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:44,249 WARNING :: Binance BTCUSDT: 5015 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:44,255 WARNING :: Binance BTCUSDT: 3020 milliseconds of difference between the current time and the trade time
+2021-09-13 11:09:46,489 INFO :: Binance order status: filled
+2021-09-13 11:10:00,377 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:11:00,669 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:12:00,784 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:16:58,669 INFO :: Binance Futures Client successfully initialized
+2021-09-13 11:17:00,221 INFO :: Binance connection opened
+2021-09-13 11:17:01,925 INFO :: Bitmex Client successfully initialized
+2021-09-13 11:17:02,989 INFO :: Bitmex connection opened
+2021-09-13 11:19:00,394 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:19:05,199 INFO :: Binance Futures current USDT balance = 99930.98055966, trade size = 0.045
+2021-09-13 11:19:05,200 INFO :: long signal on BTCUSDT 1m
+2021-09-13 11:19:05,555 INFO :: Buy order placed on Binance | Status = new
+2021-09-13 11:19:07,964 INFO :: Binance order status: filled
+2021-09-13 11:20:00,449 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:21:00,539 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:22:00,645 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:23:00,582 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:23:15,576 INFO :: Binance Futures Client successfully initialized
+2021-09-13 11:23:16,592 INFO :: Binance connection opened
+2021-09-13 11:23:18,494 INFO :: Bitmex Client successfully initialized
+2021-09-13 11:23:19,636 INFO :: Bitmex connection opened
+2021-09-13 11:23:50,977 INFO :: Binance Futures current USDT balance = 99938.48572272, trade size = 0.022
+2021-09-13 11:23:50,978 INFO :: short signal on BTCUSDT 1m
+2021-09-13 11:23:51,348 INFO :: Sell order placed on Binance | Status = new
+2021-09-13 11:23:53,921 INFO :: Binance order status: filled
+2021-09-13 11:24:00,757 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:25:00,870 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:26:00,569 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:27:01,092 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:28:00,494 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:29:00,372 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:30:00,722 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:31:01,437 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:32:01,526 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:33:00,644 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:34:00,964 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:35:00,975 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 11:36:01,934 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 12:23:29,857 INFO :: Binance Futures Client successfully initialized
+2021-09-13 12:23:31,001 INFO :: Binance connection opened
+2021-09-13 12:23:32,499 INFO :: Bitmex Client successfully initialized
+2021-09-13 12:23:33,438 INFO :: Bitmex connection opened
+2021-09-13 12:26:57,681 ERROR :: Error while making GET request to /api/v1/trade/bucketed: {'error': {'message': 'This request has expired - `expires` is in the past. Current time: 1631510817', 'name': 'HTTPError'}} (error code 400)
+2021-09-13 12:27:55,187 INFO :: Binance Futures current USDT balance = 99939.74157205, trade size = 0.022
+2021-09-13 12:27:55,188 INFO :: short signal on BTCUSDT 1m
+2021-09-13 12:27:55,441 INFO :: Sell order placed on Binance | Status = new
+2021-09-13 12:27:57,733 INFO :: Binance order status: filled
+2021-09-13 12:28:00,698 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 12:33:34,636 INFO :: Binance Futures Client successfully initialized
+2021-09-13 12:33:35,487 INFO :: Binance connection opened
+2021-09-13 12:33:37,606 INFO :: Bitmex Client successfully initialized
+2021-09-13 12:33:38,608 INFO :: Bitmex connection opened
+2021-09-13 12:34:00,721 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-13 12:34:02,721 INFO :: Binance Futures current USDT balance = 99939.34919097, trade size = 0.022
+2021-09-13 12:34:02,722 INFO :: short signal on BTCUSDT 1m
+2021-09-13 12:34:02,897 INFO :: Sell order placed on Binance | Status = new
+2021-09-13 12:34:05,110 INFO :: Binance order status: filled

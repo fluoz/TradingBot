@@ -30,3 +30,172 @@
 2021-09-15 11:31:02,502 INFO :: Binance connection opened
 2021-09-15 11:31:04,706 INFO :: Bitmex Client successfully initialized
 2021-09-15 11:31:06,702 INFO :: Bitmex connection opened
+2021-09-15 11:57:32,538 INFO :: Binance Futures Client successfully initialized
+2021-09-15 11:57:33,238 INFO :: Binance connection opened
+2021-09-15 11:57:35,759 INFO :: Bitmex Client successfully initialized
+2021-09-15 11:57:36,696 INFO :: Bitmex connection opened
+2021-09-15 11:57:50,117 INFO :: Binance Futures Client successfully initialized
+2021-09-15 11:57:50,523 INFO :: Binance connection opened
+2021-09-15 11:57:52,139 INFO :: Bitmex Client successfully initialized
+2021-09-15 11:57:53,109 INFO :: Bitmex connection opened
+2021-09-15 12:57:49,912 INFO :: Binance Futures Client successfully initialized
+2021-09-15 12:57:50,684 INFO :: Binance connection opened
+2021-09-15 12:57:53,033 INFO :: Bitmex Client successfully initialized
+2021-09-15 12:57:54,351 INFO :: Bitmex connection opened
+2021-09-15 12:58:32,674 INFO :: Binance Futures Client successfully initialized
+2021-09-15 12:58:33,346 INFO :: Binance connection opened
+2021-09-15 12:58:35,261 INFO :: Bitmex Client successfully initialized
+2021-09-15 12:58:36,323 INFO :: Bitmex connection opened
+2021-09-15 12:59:15,507 INFO :: Binance Futures Client successfully initialized
+2021-09-15 12:59:16,214 INFO :: Binance connection opened
+2021-09-15 12:59:18,500 INFO :: Bitmex Client successfully initialized
+2021-09-15 12:59:19,780 INFO :: Bitmex connection opened
+2021-09-15 13:01:35,071 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:01:35,821 INFO :: Binance connection opened
+2021-09-15 13:01:38,089 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:01:39,395 INFO :: Bitmex connection opened
+2021-09-15 13:02:02,648 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:02:03,283 INFO :: Binance connection opened
+2021-09-15 13:02:05,386 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:02:06,663 INFO :: Bitmex connection opened
+2021-09-15 13:28:58,453 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:28:59,814 INFO :: Binance connection opened
+2021-09-15 13:29:01,638 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:29:02,598 INFO :: Bitmex connection opened
+2021-09-15 13:31:13,467 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:31:14,252 INFO :: Binance connection opened
+2021-09-15 13:31:15,939 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:31:16,819 INFO :: Bitmex connection opened
+2021-09-15 13:33:44,145 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:33:45,080 INFO :: Binance connection opened
+2021-09-15 13:33:47,177 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:33:48,170 INFO :: Bitmex connection opened
+2021-09-15 13:35:32,180 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:35:32,951 INFO :: Binance connection opened
+2021-09-15 13:35:35,310 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:35:36,322 INFO :: Bitmex connection opened
+2021-09-15 13:38:41,568 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:38:42,278 INFO :: Binance connection opened
+2021-09-15 13:38:44,268 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:38:45,199 INFO :: Bitmex connection opened
+2021-09-15 13:39:15,858 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:39:16,262 INFO :: Binance connection opened
+2021-09-15 13:39:17,840 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:39:18,770 INFO :: Bitmex connection opened
+2021-09-15 13:48:02,588 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:48:03,071 INFO :: Binance connection opened
+2021-09-15 13:48:05,561 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:48:06,411 INFO :: Bitmex connection opened
+2021-09-15 13:48:35,188 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:48:35,623 INFO :: Binance connection opened
+2021-09-15 13:48:37,449 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:48:38,318 INFO :: Bitmex connection opened
+2021-09-15 13:48:58,149 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:48:58,553 INFO :: Binance connection opened
+2021-09-15 13:48:59,951 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:49:00,815 INFO :: Bitmex connection opened
+2021-09-15 13:53:17,391 INFO :: Binance Futures Client successfully initialized
+2021-09-15 13:53:18,103 INFO :: Binance connection opened
+2021-09-15 13:53:19,738 INFO :: Bitmex Client successfully initialized
+2021-09-15 13:53:20,767 INFO :: Bitmex connection opened
+2021-09-15 14:10:12,006 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:10:12,853 INFO :: Binance connection opened
+2021-09-15 14:10:14,393 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:10:15,379 INFO :: Bitmex connection opened
+2021-09-15 14:10:49,368 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:10:49,809 INFO :: Binance connection opened
+2021-09-15 14:10:51,431 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:10:52,442 INFO :: Bitmex connection opened
+2021-09-15 14:11:10,412 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:11:10,885 INFO :: Binance connection opened
+2021-09-15 14:11:12,495 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:11:13,874 INFO :: Bitmex connection opened
+2021-09-15 14:11:36,603 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:11:37,212 INFO :: Binance connection opened
+2021-09-15 14:11:38,688 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:11:39,751 INFO :: Bitmex connection opened
+2021-09-15 14:12:00,165 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:12:00,567 INFO :: Binance connection opened
+2021-09-15 14:12:02,112 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:12:03,037 INFO :: Bitmex connection opened
+2021-09-15 14:12:14,189 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:12:14,631 INFO :: Binance connection opened
+2021-09-15 14:12:16,543 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:12:17,417 INFO :: Bitmex connection opened
+2021-09-15 14:14:00,319 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:14:01,074 INFO :: Binance connection opened
+2021-09-15 14:14:02,604 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:14:03,520 INFO :: Bitmex connection opened
+2021-09-15 14:14:27,265 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:14:27,657 INFO :: Binance connection opened
+2021-09-15 14:14:29,158 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:14:30,199 INFO :: Bitmex connection opened
+2021-09-15 14:14:52,515 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:14:53,033 INFO :: Binance connection opened
+2021-09-15 14:14:54,372 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:14:55,418 INFO :: Bitmex connection opened
+2021-09-15 14:17:51,768 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:17:52,478 INFO :: Binance connection opened
+2021-09-15 14:17:55,404 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:17:58,308 INFO :: Bitmex connection opened
+2021-09-15 14:21:31,890 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:21:32,912 INFO :: Binance connection opened
+2021-09-15 14:21:34,505 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:21:35,459 INFO :: Bitmex connection opened
+2021-09-15 14:21:52,367 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:21:52,790 INFO :: Binance connection opened
+2021-09-15 14:21:54,500 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:21:55,982 INFO :: Bitmex connection opened
+2021-09-15 14:24:22,162 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:24:22,980 INFO :: Binance connection opened
+2021-09-15 14:24:24,454 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:24:25,771 INFO :: Bitmex connection opened
+2021-09-15 14:25:19,290 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:25:19,746 INFO :: Binance connection opened
+2021-09-15 14:25:21,464 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:25:22,513 INFO :: Bitmex connection opened
+2021-09-15 14:25:34,974 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:25:35,573 INFO :: Binance connection opened
+2021-09-15 14:25:37,583 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:25:38,516 INFO :: Bitmex connection opened
+2021-09-15 14:27:22,367 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:27:23,562 INFO :: Binance connection opened
+2021-09-15 14:27:25,085 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:27:26,015 INFO :: Bitmex connection opened
+2021-09-15 14:28:01,615 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:28:02,419 INFO :: Binance connection opened
+2021-09-15 14:28:04,535 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:28:05,621 INFO :: Bitmex connection opened
+2021-09-15 14:29:01,777 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:29:03,996 INFO :: Binance Futures current USDT balance = 99935.45971908, trade size = 0.021
+2021-09-15 14:29:03,996 INFO :: long signal on BTCUSDT 1m
+2021-09-15 14:29:04,272 INFO :: Buy order placed on Binance | Status = new
+2021-09-15 14:29:06,629 INFO :: Binance order status: filled
+2021-09-15 14:29:35,904 WARNING :: Binance BTCUSDT: 4528 milliseconds of difference between the current time and the trade time
+2021-09-15 14:30:01,568 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:31:05,427 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:31:55,465 INFO :: Take profit for BTCUSDT 1m
+2021-09-15 14:31:55,971 INFO :: Exit order on BTCUSDT 1m placed succesfully
+2021-09-15 14:31:56,366 INFO :: Binance Futures current USDT balance = 99935.71614849, trade size = 0.021
+2021-09-15 14:31:56,366 INFO :: long signal on BTCUSDT 1m
+2021-09-15 14:31:56,823 INFO :: Buy order placed on Binance | Status = new
+2021-09-15 14:31:59,172 INFO :: Binance order status: filled
+2021-09-15 14:32:07,605 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:33:01,467 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:33:25,596 INFO :: Take profit for BTCUSDT 1m
+2021-09-15 14:33:26,232 INFO :: Exit order on BTCUSDT 1m placed succesfully
+2021-09-15 14:33:26,482 INFO :: Binance Futures current USDT balance = 99935.94664937, trade size = 0.021
+2021-09-15 14:33:26,483 INFO :: long signal on BTCUSDT 1m
+2021-09-15 14:33:26,810 INFO :: Buy order placed on Binance | Status = new
+2021-09-15 14:33:29,183 INFO :: Binance order status: filled
+2021-09-15 14:34:01,340 INFO :: Binance New candle for BTCUSDT 1m
+2021-09-15 14:34:20,350 INFO :: Stop loss for BTCUSDT 1m
+2021-09-15 14:34:20,774 INFO :: Exit order on BTCUSDT 1m placed succesfully
+2021-09-15 14:34:20,986 INFO :: Binance Futures current USDT balance = 99934.12375781, trade size = 0.021
+2021-09-15 14:34:20,987 INFO :: short signal on BTCUSDT 1m
+2021-09-15 14:34:21,267 INFO :: Sell order placed on Binance | Status = new
+2021-09-15 14:34:23,652 INFO :: Binance order status: filled
+2021-09-15 14:44:20,338 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:44:20,996 INFO :: Binance connection opened
+2021-09-15 14:44:22,563 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:44:23,523 INFO :: Bitmex connection opened

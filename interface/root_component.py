@@ -1,5 +1,6 @@
 import tkinter as tk
 import logging
+from tkinter.messagebox import askquestion
 
 from connectors.bitmex import BitmexClient
 from connectors.binance_futures import BinanceFuturesClient
@@ -22,6 +23,7 @@ class Root(tk.Tk):
         self.bitmex = bitmex
 
         self.title("Trading Bot")
+        self.protocol("WM_DELETE_WINDOW", self._ask_before_close)
 
         self.configure(bg=BG_COLOR)
 
@@ -44,6 +46,16 @@ class Root(tk.Tk):
         self._trades_frame.pack(side=tk.TOP)
 
         self._update_ui()
+
+    def _ask_before_close(self):
+        result = askquestion("Confirmation", "Do you really want to exit the application?")
+        if result == "yes":
+            self.binance.reconnect = False
+            self.bitmex.reconnect = False
+            self.binance.ws.close()
+            self.bitmex.ws.close()
+
+            self.destroy()
 
     def _update_ui(self):
 

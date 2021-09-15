@@ -199,3 +199,10 @@
 2021-09-15 14:44:20,996 INFO :: Binance connection opened
 2021-09-15 14:44:22,563 INFO :: Bitmex Client successfully initialized
 2021-09-15 14:44:23,523 INFO :: Bitmex connection opened
+2021-09-15 14:59:47,030 INFO :: Binance Futures Client successfully initialized
+2021-09-15 14:59:47,735 INFO :: Binance connection opened
+2021-09-15 14:59:49,206 INFO :: Bitmex Client successfully initialized
+2021-09-15 14:59:50,138 INFO :: Bitmex connection opened
+2021-09-15 14:59:54,585 WARNING :: Binance Websocket connection closed
+2021-09-15 14:59:54,684 ERROR :: Bitmex connection error: The read operation timed out
+2021-09-15 14:59:54,685 WARNING :: Bitmex Websocket connection closed

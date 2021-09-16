@@ -1,1 +1,26 @@
 
+2021-09-16 10:50:49,099 INFO :: Binance Futures Client successfully initialized
+2021-09-16 10:50:49,906 INFO :: Binance connection opened
+2021-09-16 10:50:51,490 INFO :: Bitmex Client successfully initialized
+2021-09-16 10:50:52,405 INFO :: Bitmex connection opened
+2021-09-16 10:51:11,415 WARNING :: Binance Websocket connection closed
+2021-09-16 13:20:50,966 INFO :: Binance Futures Client successfully initialized
+2021-09-16 13:20:51,472 INFO :: Binance connection opened
+2021-09-16 13:20:54,623 INFO :: Bitmex Client successfully initialized
+2021-09-16 13:20:55,600 INFO :: Bitmex connection opened
+2021-09-16 13:26:13,000 INFO :: Binance Futures Client successfully initialized
+2021-09-16 13:26:13,594 INFO :: Binance connection opened
+2021-09-16 13:26:15,815 INFO :: Bitmex Client successfully initialized
+2021-09-16 13:26:16,762 INFO :: Bitmex connection opened
+2021-09-16 13:33:18,876 INFO :: Binance Futures Client successfully initialized
+2021-09-16 13:33:19,545 INFO :: Binance connection opened
+2021-09-16 13:33:21,729 INFO :: Bitmex Client successfully initialized
+2021-09-16 13:33:22,655 INFO :: Bitmex connection opened
+2021-09-16 13:33:42,212 WARNING :: Binance Websocket connection closed
+2021-09-16 13:33:42,417 WARNING :: Bitmex Websocket connection closed
+2021-09-16 13:33:49,251 INFO :: Binance Futures Client successfully initialized
+2021-09-16 13:33:49,633 INFO :: Binance connection opened
+2021-09-16 13:33:51,193 INFO :: Bitmex Client successfully initialized
+2021-09-16 13:33:52,555 INFO :: Bitmex connection opened
+2021-09-16 13:33:59,449 WARNING :: Binance Websocket connection closed
+2021-09-16 13:33:59,652 WARNING :: Bitmex Websocket connection closed

@@ -83,7 +83,7 @@ class StrategyEditor(tk.Frame):
             header.grid(row=0, column=idx, padx=2)
 
         header = tk.Label(self._headers_frame, text="", bg=BG_COLOR, fg=FG_COLOR, font=GLOBAL_FONT,
-                          width=8, bd=1, relief=tk.FLAT) #default width = 8
+                          width=15, bd=1, relief=tk.FLAT) #default width = 8
         header.grid(row=0, column=len(self._base_params), padx=2)
 
         self._headers_frame.pack(side=tk.TOP, anchor="nw")
